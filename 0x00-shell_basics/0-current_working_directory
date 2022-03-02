@@ -1,4 +1,2 @@
 #!/bin/bash
-# code to display files and folders in the current working directory
 pwd
-
