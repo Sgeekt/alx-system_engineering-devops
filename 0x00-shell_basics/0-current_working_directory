@@ -1,19 +1,4 @@
 #!/bin/bash
 # code to display files and folders in the current working directory
-echo directory
-for item in *
-do
-        if [-d $item]
-           then
-               echo $item
-        fi
-done
+pwd
 
-echo file
-for item in *
-do
-         if [ -f $item]
-           then
-               echo $item
-         fi
-done
