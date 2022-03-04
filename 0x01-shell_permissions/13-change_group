@@ -1,2 +1,2 @@
 #!/bin/bash
-groupmod -n school hello
+chgrp school hello
